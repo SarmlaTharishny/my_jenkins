@@ -1,3 +1,3 @@
 # my_jenkins
 
-JUST FOR TESTING........
+JUST FOR TESTING
